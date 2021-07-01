@@ -6,6 +6,11 @@
          </vargroup>
 <defines name="main"></defines>
          <sourceSTIL>(* add your code here *)
+IF (* condition : BOOL *) THEN
+    
+ELSE
+    
+END_IF;
 
          </sourceSTIL>
       </pou>
