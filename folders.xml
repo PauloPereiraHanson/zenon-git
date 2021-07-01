@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="yes"?>
+<Appli>
+   <Folder ID="181" Name="Programs">
+      <Program Name="main"/>
+   </Folder>
+   <Folder ID="50" Name="Recipe"/>
+   <Folder ID="82" Name="Signals"/>
+   <Folder ID="140" Name="Soft Scope"/>
+   <Folder ID="49" Name="Spy"/>
+   <Folder ID="81" Name="String Tables"/>
+   <FieldBus/>
+   <Binding/>
+   <Profiles/>
+   <GlobalDef/>
+   <Vars/>
+   <Types/>
+</Appli>
